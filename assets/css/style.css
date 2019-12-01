@@ -84,6 +84,11 @@ font-family: "Exo",sans-serif;
     box-shadow: 0 15px 50px 0 rgba(0,0,0,.07);
 padding: 51px 80px 40px 80px;
 }
+@media(max-width:767px){
+    #apointment-form .outer-box{
+        padding:81px 25px;
+    }
+}
 #apointment-form .outer-box p{
     color:#222;
 margin: 0 0 6px 0;
